@@ -6,3 +6,5 @@ How it works?
 - Auto-detects the idle popup and clicks the confirmation button
 - Lightweight and runs in the background
 - Console logs for debugging
+
+⚠️**For educational purposes only.**
